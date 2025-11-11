@@ -13,3 +13,4 @@ dp = dot_product(vector_a, vector_b)
 print(f"Dot product : {dp}")
 
 # Incomplete feature
+// A small modification by <vivek
